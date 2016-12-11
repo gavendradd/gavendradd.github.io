@@ -1,0 +1,85 @@
+
+body {
+
+  padding: 0px;
+  margin: 0px;
+  background-color: darkorange;
+}
+img {
+    border-radius: 50%;
+}
+h1 {border-style: dashed;
+  border-color: black;
+  padding: 50px;
+  margin: 0px;
+}
+h1 {
+  color: Red;
+  text-align: center;
+  background: yellow;
+  text-transform: uppercase; 
+}
+.body {
+   background-color:white;
+  border-style: solid;
+  border-color: black;
+  padding: 20px;
+  margin: 40px;
+}
+Table {
+  width: 300px
+}
+p1 {
+  font-size: 20px;
+  border: 0px
+  
+}
+.Eat {
+  color: red;
+   width: 100%;
+  table-color: white;
+}
+.comment {
+    width: 300px;
+    border: 25px ;
+    padding: 150px;
+    margin: 00px;
+  float: right;
+  border-left-style: solid;
+  border-top-left-radius: 100px 
+    
+  } 
+background = url()
+.grad1{
+   width: 300px;
+    border: 250px ;
+    padding: 200px;
+    margin: 100px;
+  float: right;
+}
+p2 {
+  font-size: 20px;
+  
+}
+p3{
+  font-size: 20px;
+}
+h2 {
+  color: red;
+}
+.merah{
+color: red;
+}
+.comment {
+ background-color: #faebd7;
+   background: red; /* For browsers that do not support gradients */
+  /* For Safari 5.1 to 6.0 */
+  background: -webkit-linear-gradient(yellow,green);
+  /* For Opera 11.1 to 12.0 */
+  background: -o-linear-gradient(yellow,green);
+  /* For Fx 3.6 to 15 */
+  background: -moz-linear-gradient(yellow,green);
+  /* Standard syntax */
+  background: linear-gradient(yellow,green); 
+}
+<tag style="color:orange; background:yellow;">isi tag</tag>
